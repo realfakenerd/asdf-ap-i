@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "outDir": "dist",
+      "outDir": "public",
       "sourceMap": false,
       "target": "ESNext",
       "useDefineForClassFields": false,

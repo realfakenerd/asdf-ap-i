@@ -2,11 +2,11 @@
   "name": "news-api",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "public/index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "node dist/index.js",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
+    "start": "node public/index.js",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q public/index.js\""
   },
   "keywords": [],
   "author": "",
